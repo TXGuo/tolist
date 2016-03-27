@@ -1,0 +1,26 @@
+{
+  "name": "eric",
+  "description": "",
+  "main": "",
+  "authors": [
+    "guotianxing <guotianxing@sina.cn>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tolist"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6"
+  }
+}
